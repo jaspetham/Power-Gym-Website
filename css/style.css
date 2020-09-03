@@ -118,6 +118,7 @@ h1 .navbar-brand a{
 .banner #girl-background{
     background-image: url(../img/bg-1.jpg);
     background-position: top left;
+    background-repeat: no-repeat;
 }
 
 .btn-group{
@@ -127,6 +128,7 @@ h1 .navbar-brand a{
 .btn-group a{
     font-size:20px;
     background-image: linear-gradient(90deg, var(--primary-color) 70% , #E91B1A 15%);
+    background-repeat: no-repeat;
     color:white;
     padding:10px 30px;
 }
@@ -142,6 +144,7 @@ h1 .navbar-brand a{
 .our-story-bg {
     background-image: url(../img/bg-1.jpg);
     background-position: 50% 55%;
+    background-repeat: no-repeat;
     height:840px;
 }
 
@@ -173,6 +176,7 @@ h1 .navbar-brand a{
 .class{
     background-image: url(../img/bg-1.jpg);
     background-position: bottom right;
+    background-repeat: no-repeat;
 }
 .class-title{
     font-size: 40px;
@@ -272,6 +276,7 @@ h1 .navbar-brand a{
     padding-top: 120px;
     background-image: url(../img/bg-1.jpg);
     background-position: right;
+    background-repeat: no-repeat;
     z-index:-1;
 }
 
@@ -373,6 +378,7 @@ h1 .navbar-brand a{
     background-image: url(../img/bg-1.jpg);
     background-position:  bottom right;
     padding-top:150px;
+    background-repeat: no-repeat;
 }
 .contact .review-title{
     font-size: 50px;
